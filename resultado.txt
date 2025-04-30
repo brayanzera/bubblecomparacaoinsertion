@@ -1,0 +1,930 @@
+
+######################################
+########## Testando N = 10000 ##########
+######################################
+
+==============================
+Algoritmo: BubbleSort | Caso: Melhor Caso | N = 10000
+------------------------------
+Teste 01: 0.0000 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0000 segundos
+Teste 06: 0.0000 segundos
+Teste 07: 0.0000 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0000 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0000 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0000 segundos
+Teste 21: 0.0000 segundos
+Teste 22: 0.0010 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0000 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0000 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0000 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Melhor Caso | N = 10000
+------------------------------
+Teste 01: 0.0000 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0000 segundos
+Teste 06: 0.0000 segundos
+Teste 07: 0.0000 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0000 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0000 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0000 segundos
+Teste 21: 0.0000 segundos
+Teste 22: 0.0000 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0000 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0000 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0000 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Caso Médio | N = 10000
+------------------------------
+Teste 01: 0.1630 segundos
+Teste 02: 0.1570 segundos
+Teste 03: 0.1580 segundos
+Teste 04: 0.1570 segundos
+Teste 05: 0.1580 segundos
+Teste 06: 0.1590 segundos
+Teste 07: 0.1580 segundos
+Teste 08: 0.1580 segundos
+Teste 09: 0.1580 segundos
+Teste 10: 0.1580 segundos
+Teste 11: 0.1580 segundos
+Teste 12: 0.1560 segundos
+Teste 13: 0.1570 segundos
+Teste 14: 0.1570 segundos
+Teste 15: 0.1580 segundos
+Teste 16: 0.1570 segundos
+Teste 17: 0.1560 segundos
+Teste 18: 0.1560 segundos
+Teste 19: 0.1570 segundos
+Teste 20: 0.1640 segundos
+Teste 21: 0.1560 segundos
+Teste 22: 0.1560 segundos
+Teste 23: 0.1550 segundos
+Teste 24: 0.1570 segundos
+Teste 25: 0.1580 segundos
+Teste 26: 0.1560 segundos
+Teste 27: 0.1560 segundos
+Teste 28: 0.1600 segundos
+Teste 29: 0.1560 segundos
+Teste 30: 0.1580 segundos
+------------------------------
+MÉDIA FINAL: 0.1576 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Caso Médio | N = 10000
+------------------------------
+Teste 01: 0.0340 segundos
+Teste 02: 0.0330 segundos
+Teste 03: 0.0330 segundos
+Teste 04: 0.0340 segundos
+Teste 05: 0.0330 segundos
+Teste 06: 0.0330 segundos
+Teste 07: 0.0330 segundos
+Teste 08: 0.0330 segundos
+Teste 09: 0.0330 segundos
+Teste 10: 0.0330 segundos
+Teste 11: 0.0340 segundos
+Teste 12: 0.0330 segundos
+Teste 13: 0.0330 segundos
+Teste 14: 0.0340 segundos
+Teste 15: 0.0340 segundos
+Teste 16: 0.0330 segundos
+Teste 17: 0.0330 segundos
+Teste 18: 0.0330 segundos
+Teste 19: 0.0330 segundos
+Teste 20: 0.0330 segundos
+Teste 21: 0.0330 segundos
+Teste 22: 0.0340 segundos
+Teste 23: 0.0330 segundos
+Teste 24: 0.0340 segundos
+Teste 25: 0.0330 segundos
+Teste 26: 0.0340 segundos
+Teste 27: 0.0330 segundos
+Teste 28: 0.0330 segundos
+Teste 29: 0.0330 segundos
+Teste 30: 0.0340 segundos
+------------------------------
+MÉDIA FINAL: 0.0333 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Pior Caso | N = 10000
+------------------------------
+Teste 01: 0.1900 segundos
+Teste 02: 0.1880 segundos
+Teste 03: 0.1900 segundos
+Teste 04: 0.1890 segundos
+Teste 05: 0.1900 segundos
+Teste 06: 0.1900 segundos
+Teste 07: 0.1890 segundos
+Teste 08: 0.1900 segundos
+Teste 09: 0.1900 segundos
+Teste 10: 0.1890 segundos
+Teste 11: 0.1900 segundos
+Teste 12: 0.1890 segundos
+Teste 13: 0.1890 segundos
+Teste 14: 0.1900 segundos
+Teste 15: 0.1900 segundos
+Teste 16: 0.1900 segundos
+Teste 17: 0.1890 segundos
+Teste 18: 0.1890 segundos
+Teste 19: 0.1900 segundos
+Teste 20: 0.1900 segundos
+Teste 21: 0.1890 segundos
+Teste 22: 0.1900 segundos
+Teste 23: 0.1890 segundos
+Teste 24: 0.1900 segundos
+Teste 25: 0.1890 segundos
+Teste 26: 0.1920 segundos
+Teste 27: 0.1890 segundos
+Teste 28: 0.1900 segundos
+Teste 29: 0.1890 segundos
+Teste 30: 0.1900 segundos
+------------------------------
+MÉDIA FINAL: 0.1896 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Pior Caso | N = 10000
+------------------------------
+Teste 01: 0.0670 segundos
+Teste 02: 0.0660 segundos
+Teste 03: 0.0660 segundos
+Teste 04: 0.0680 segundos
+Teste 05: 0.0660 segundos
+Teste 06: 0.0660 segundos
+Teste 07: 0.0670 segundos
+Teste 08: 0.0660 segundos
+Teste 09: 0.0670 segundos
+Teste 10: 0.0660 segundos
+Teste 11: 0.0670 segundos
+Teste 12: 0.0660 segundos
+Teste 13: 0.0670 segundos
+Teste 14: 0.0670 segundos
+Teste 15: 0.0660 segundos
+Teste 16: 0.0670 segundos
+Teste 17: 0.0660 segundos
+Teste 18: 0.0670 segundos
+Teste 19: 0.0660 segundos
+Teste 20: 0.0660 segundos
+Teste 21: 0.0670 segundos
+Teste 22: 0.0670 segundos
+Teste 23: 0.0660 segundos
+Teste 24: 0.0670 segundos
+Teste 25: 0.0660 segundos
+Teste 26: 0.0660 segundos
+Teste 27: 0.0680 segundos
+Teste 28: 0.0660 segundos
+Teste 29: 0.0670 segundos
+Teste 30: 0.0660 segundos
+------------------------------
+MÉDIA FINAL: 0.0665 segundos
+==============================
+
+
+######################################
+########## Testando N = 50000 ##########
+######################################
+
+==============================
+Algoritmo: BubbleSort | Caso: Melhor Caso | N = 50000
+------------------------------
+Teste 01: 0.0000 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0000 segundos
+Teste 06: 0.0000 segundos
+Teste 07: 0.0000 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0000 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0000 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0000 segundos
+Teste 21: 0.0000 segundos
+Teste 22: 0.0000 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0000 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0000 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0000 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Melhor Caso | N = 50000
+------------------------------
+Teste 01: 0.0010 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0000 segundos
+Teste 06: 0.0000 segundos
+Teste 07: 0.0000 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0000 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0010 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0000 segundos
+Teste 21: 0.0010 segundos
+Teste 22: 0.0000 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0000 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0010 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0001 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Caso Médio | N = 50000
+------------------------------
+Teste 01: 5.5980 segundos
+Teste 02: 5.5930 segundos
+Teste 03: 5.6180 segundos
+Teste 04: 5.6180 segundos
+Teste 05: 5.6180 segundos
+Teste 06: 5.6210 segundos
+Teste 07: 5.6360 segundos
+Teste 08: 5.6310 segundos
+Teste 09: 5.6080 segundos
+Teste 10: 5.6060 segundos
+Teste 11: 5.6190 segundos
+Teste 12: 5.6230 segundos
+Teste 13: 5.6140 segundos
+Teste 14: 5.6200 segundos
+Teste 15: 5.6150 segundos
+Teste 16: 5.6160 segundos
+Teste 17: 5.6060 segundos
+Teste 18: 5.6250 segundos
+Teste 19: 5.6380 segundos
+Teste 20: 5.6260 segundos
+Teste 21: 5.6680 segundos
+Teste 22: 5.6290 segundos
+Teste 23: 5.6130 segundos
+Teste 24: 5.6170 segundos
+Teste 25: 5.6050 segundos
+Teste 26: 5.6460 segundos
+Teste 27: 5.6270 segundos
+Teste 28: 5.6110 segundos
+Teste 29: 5.6370 segundos
+Teste 30: 5.6250 segundos
+------------------------------
+MÉDIA FINAL: 5.6209 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Caso Médio | N = 50000
+------------------------------
+Teste 01: 0.8820 segundos
+Teste 02: 0.8820 segundos
+Teste 03: 0.8830 segundos
+Teste 04: 0.8880 segundos
+Teste 05: 0.8830 segundos
+Teste 06: 0.8820 segundos
+Teste 07: 0.8810 segundos
+Teste 08: 0.8830 segundos
+Teste 09: 0.8790 segundos
+Teste 10: 0.8820 segundos
+Teste 11: 0.8860 segundos
+Teste 12: 0.8840 segundos
+Teste 13: 0.8830 segundos
+Teste 14: 0.8800 segundos
+Teste 15: 0.8800 segundos
+Teste 16: 0.8770 segundos
+Teste 17: 0.8830 segundos
+Teste 18: 0.8840 segundos
+Teste 19: 0.8810 segundos
+Teste 20: 0.8830 segundos
+Teste 21: 0.8830 segundos
+Teste 22: 0.8820 segundos
+Teste 23: 0.8880 segundos
+Teste 24: 0.8770 segundos
+Teste 25: 0.8740 segundos
+Teste 26: 0.8840 segundos
+Teste 27: 0.8810 segundos
+Teste 28: 0.8830 segundos
+Teste 29: 0.8790 segundos
+Teste 30: 0.8840 segundos
+------------------------------
+MÉDIA FINAL: 0.8820 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Pior Caso | N = 50000
+------------------------------
+Teste 01: 4.9340 segundos
+Teste 02: 4.9340 segundos
+Teste 03: 4.9430 segundos
+Teste 04: 4.9370 segundos
+Teste 05: 4.9400 segundos
+Teste 06: 4.9330 segundos
+Teste 07: 4.9440 segundos
+Teste 08: 4.9530 segundos
+Teste 09: 4.9600 segundos
+Teste 10: 4.9650 segundos
+Teste 11: 4.9880 segundos
+Teste 12: 4.9650 segundos
+Teste 13: 4.9710 segundos
+Teste 14: 4.9540 segundos
+Teste 15: 4.9880 segundos
+Teste 16: 4.9630 segundos
+Teste 17: 4.9480 segundos
+Teste 18: 4.9480 segundos
+Teste 19: 4.9430 segundos
+Teste 20: 4.9460 segundos
+Teste 21: 4.9390 segundos
+Teste 22: 4.9330 segundos
+Teste 23: 4.9400 segundos
+Teste 24: 4.9390 segundos
+Teste 25: 4.9390 segundos
+Teste 26: 4.9340 segundos
+Teste 27: 4.9420 segundos
+Teste 28: 4.9430 segundos
+Teste 29: 4.9390 segundos
+Teste 30: 4.9360 segundos
+------------------------------
+MÉDIA FINAL: 4.9480 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Pior Caso | N = 50000
+------------------------------
+Teste 01: 1.7720 segundos
+Teste 02: 1.7730 segundos
+Teste 03: 1.7720 segundos
+Teste 04: 1.7720 segundos
+Teste 05: 1.7770 segundos
+Teste 06: 1.7730 segundos
+Teste 07: 1.7730 segundos
+Teste 08: 1.7730 segundos
+Teste 09: 1.7760 segundos
+Teste 10: 1.7720 segundos
+Teste 11: 1.7720 segundos
+Teste 12: 1.7720 segundos
+Teste 13: 1.7730 segundos
+Teste 14: 1.7720 segundos
+Teste 15: 1.7720 segundos
+Teste 16: 1.7720 segundos
+Teste 17: 1.7730 segundos
+Teste 18: 1.7720 segundos
+Teste 19: 1.7730 segundos
+Teste 20: 1.7740 segundos
+Teste 21: 1.7720 segundos
+Teste 22: 1.7720 segundos
+Teste 23: 1.7730 segundos
+Teste 24: 1.7770 segundos
+Teste 25: 1.7730 segundos
+Teste 26: 1.7730 segundos
+Teste 27: 1.7730 segundos
+Teste 28: 1.7740 segundos
+Teste 29: 1.7820 segundos
+Teste 30: 1.7890 segundos
+------------------------------
+MÉDIA FINAL: 1.7739 segundos
+==============================
+
+
+######################################
+########## Testando N = 100000 ##########
+######################################
+
+==============================
+Algoritmo: BubbleSort | Caso: Melhor Caso | N = 100000
+------------------------------
+Teste 01: 0.0000 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0000 segundos
+Teste 06: 0.0010 segundos
+Teste 07: 0.0000 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0000 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0000 segundos
+Teste 15: 0.0010 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0000 segundos
+Teste 21: 0.0000 segundos
+Teste 22: 0.0000 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0010 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0010 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0001 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Melhor Caso | N = 100000
+------------------------------
+Teste 01: 0.0000 segundos
+Teste 02: 0.0010 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0010 segundos
+Teste 06: 0.0000 segundos
+Teste 07: 0.0000 segundos
+Teste 08: 0.0010 segundos
+Teste 09: 0.0000 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0000 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0010 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0000 segundos
+Teste 21: 0.0010 segundos
+Teste 22: 0.0000 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0010 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0000 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0002 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Caso Médio | N = 100000
+------------------------------
+Teste 01: 23.9540 segundos
+Teste 02: 23.9810 segundos
+Teste 03: 23.9270 segundos
+Teste 04: 24.0040 segundos
+Teste 05: 23.9520 segundos
+Teste 06: 23.9410 segundos
+Teste 07: 23.9680 segundos
+Teste 08: 23.9500 segundos
+Teste 09: 23.9270 segundos
+Teste 10: 23.9200 segundos
+Teste 11: 23.9670 segundos
+Teste 12: 23.9070 segundos
+Teste 13: 23.8850 segundos
+Teste 14: 23.9230 segundos
+Teste 15: 23.8780 segundos
+Teste 16: 23.8750 segundos
+Teste 17: 23.8980 segundos
+Teste 18: 23.9330 segundos
+Teste 19: 23.9270 segundos
+Teste 20: 23.9100 segundos
+Teste 21: 23.8860 segundos
+Teste 22: 23.9120 segundos
+Teste 23: 23.9230 segundos
+Teste 24: 23.9610 segundos
+Teste 25: 23.8820 segundos
+Teste 26: 23.8880 segundos
+Teste 27: 24.0020 segundos
+Teste 28: 23.9020 segundos
+Teste 29: 23.8820 segundos
+Teste 30: 23.9000 segundos
+------------------------------
+MÉDIA FINAL: 23.9255 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Caso Médio | N = 100000
+------------------------------
+Teste 01: 3.5400 segundos
+Teste 02: 3.5200 segundos
+Teste 03: 3.5170 segundos
+Teste 04: 3.5380 segundos
+Teste 05: 3.5230 segundos
+Teste 06: 3.5450 segundos
+Teste 07: 3.5350 segundos
+Teste 08: 3.5270 segundos
+Teste 09: 3.5400 segundos
+Teste 10: 3.5330 segundos
+Teste 11: 3.5240 segundos
+Teste 12: 3.5350 segundos
+Teste 13: 3.5300 segundos
+Teste 14: 3.5330 segundos
+Teste 15: 3.5330 segundos
+Teste 16: 3.5220 segundos
+Teste 17: 3.5200 segundos
+Teste 18: 3.5360 segundos
+Teste 19: 3.5300 segundos
+Teste 20: 3.5290 segundos
+Teste 21: 3.5400 segundos
+Teste 22: 3.5340 segundos
+Teste 23: 3.5230 segundos
+Teste 24: 3.5190 segundos
+Teste 25: 3.5250 segundos
+Teste 26: 3.5340 segundos
+Teste 27: 3.5240 segundos
+Teste 28: 3.5410 segundos
+Teste 29: 3.5270 segundos
+Teste 30: 3.5300 segundos
+------------------------------
+MÉDIA FINAL: 3.5302 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Pior Caso | N = 100000
+------------------------------
+Teste 01: 19.5770 segundos
+Teste 02: 19.5790 segundos
+Teste 03: 19.5750 segundos
+Teste 04: 19.5680 segundos
+Teste 05: 19.5750 segundos
+Teste 06: 19.5920 segundos
+Teste 07: 19.5650 segundos
+Teste 08: 19.5770 segundos
+Teste 09: 19.5610 segundos
+Teste 10: 19.5600 segundos
+Teste 11: 19.5660 segundos
+Teste 12: 19.5670 segundos
+Teste 13: 19.5630 segundos
+Teste 14: 19.5780 segundos
+Teste 15: 19.5810 segundos
+Teste 16: 19.5630 segundos
+Teste 17: 19.5950 segundos
+Teste 18: 19.5870 segundos
+Teste 19: 19.5630 segundos
+Teste 20: 19.5790 segundos
+Teste 21: 19.5670 segundos
+Teste 22: 19.5640 segundos
+Teste 23: 19.5820 segundos
+Teste 24: 19.5930 segundos
+Teste 25: 19.5710 segundos
+Teste 26: 19.5770 segundos
+Teste 27: 19.5790 segundos
+Teste 28: 19.5650 segundos
+Teste 29: 19.5610 segundos
+Teste 30: 19.5830 segundos
+------------------------------
+MÉDIA FINAL: 19.5738 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Pior Caso | N = 100000
+------------------------------
+Teste 01: 7.0610 segundos
+Teste 02: 7.0530 segundos
+Teste 03: 7.0530 segundos
+Teste 04: 7.0530 segundos
+Teste 05: 7.0520 segundos
+Teste 06: 7.0570 segundos
+Teste 07: 7.0590 segundos
+Teste 08: 7.0560 segundos
+Teste 09: 7.0530 segundos
+Teste 10: 7.0480 segundos
+Teste 11: 7.0620 segundos
+Teste 12: 7.0560 segundos
+Teste 13: 7.0560 segundos
+Teste 14: 7.0540 segundos
+Teste 15: 7.0540 segundos
+Teste 16: 7.0490 segundos
+Teste 17: 7.0480 segundos
+Teste 18: 7.0480 segundos
+Teste 19: 7.0520 segundos
+Teste 20: 7.0540 segundos
+Teste 21: 7.0480 segundos
+Teste 22: 7.0480 segundos
+Teste 23: 7.0610 segundos
+Teste 24: 7.0540 segundos
+Teste 25: 7.0490 segundos
+Teste 26: 7.0530 segundos
+Teste 27: 7.0590 segundos
+Teste 28: 7.0540 segundos
+Teste 29: 7.0490 segundos
+Teste 30: 7.0520 segundos
+------------------------------
+MÉDIA FINAL: 7.0535 segundos
+==============================
+
+
+######################################
+########## Testando N = 200000 ##########
+######################################
+
+==============================
+Algoritmo: BubbleSort | Caso: Melhor Caso | N = 200000
+------------------------------
+Teste 01: 0.0010 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0010 segundos
+Teste 04: 0.0000 segundos
+Teste 05: 0.0010 segundos
+Teste 06: 0.0000 segundos
+Teste 07: 0.0010 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0010 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0010 segundos
+Teste 12: 0.0000 segundos
+Teste 13: 0.0010 segundos
+Teste 14: 0.0000 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0000 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0010 segundos
+Teste 21: 0.0000 segundos
+Teste 22: 0.0010 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0000 segundos
+Teste 25: 0.0000 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0000 segundos
+Teste 28: 0.0000 segundos
+Teste 29: 0.0010 segundos
+Teste 30: 0.0000 segundos
+------------------------------
+MÉDIA FINAL: 0.0003 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Melhor Caso | N = 200000
+------------------------------
+Teste 01: 0.0010 segundos
+Teste 02: 0.0000 segundos
+Teste 03: 0.0000 segundos
+Teste 04: 0.0010 segundos
+Teste 05: 0.0000 segundos
+Teste 06: 0.0010 segundos
+Teste 07: 0.0010 segundos
+Teste 08: 0.0000 segundos
+Teste 09: 0.0010 segundos
+Teste 10: 0.0000 segundos
+Teste 11: 0.0000 segundos
+Teste 12: 0.0010 segundos
+Teste 13: 0.0000 segundos
+Teste 14: 0.0010 segundos
+Teste 15: 0.0000 segundos
+Teste 16: 0.0000 segundos
+Teste 17: 0.0010 segundos
+Teste 18: 0.0000 segundos
+Teste 19: 0.0000 segundos
+Teste 20: 0.0010 segundos
+Teste 21: 0.0000 segundos
+Teste 22: 0.0010 segundos
+Teste 23: 0.0000 segundos
+Teste 24: 0.0000 segundos
+Teste 25: 0.0010 segundos
+Teste 26: 0.0000 segundos
+Teste 27: 0.0010 segundos
+Teste 28: 0.0000 segundos
+Teste 29: 0.0000 segundos
+Teste 30: 0.0010 segundos
+------------------------------
+MÉDIA FINAL: 0.0004 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Caso Médio | N = 200000
+------------------------------
+Teste 01: 98.3240 segundos
+Teste 02: 98.4020 segundos
+Teste 03: 98.3770 segundos
+Teste 04: 98.2880 segundos
+Teste 05: 98.3070 segundos
+Teste 06: 98.4360 segundos
+Teste 07: 98.3460 segundos
+Teste 08: 98.1970 segundos
+Teste 09: 98.4310 segundos
+Teste 10: 98.2750 segundos
+Teste 11: 98.4820 segundos
+Teste 12: 98.4310 segundos
+Teste 13: 98.4700 segundos
+Teste 14: 98.3950 segundos
+Teste 15: 98.4460 segundos
+Teste 16: 98.5870 segundos
+Teste 17: 98.4050 segundos
+Teste 18: 98.2740 segundos
+Teste 19: 98.4600 segundos
+Teste 20: 98.4430 segundos
+Teste 21: 98.3920 segundos
+Teste 22: 98.3350 segundos
+Teste 23: 98.3510 segundos
+Teste 24: 98.4100 segundos
+Teste 25: 98.2930 segundos
+Teste 26: 98.4960 segundos
+Teste 27: 98.2990 segundos
+Teste 28: 98.5190 segundos
+Teste 29: 98.4010 segundos
+Teste 30: 98.2170 segundos
+------------------------------
+MÉDIA FINAL: 98.3830 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Caso Médio | N = 200000
+------------------------------
+Teste 01: 14.1800 segundos
+Teste 02: 14.1240 segundos
+Teste 03: 14.1650 segundos
+Teste 04: 14.1550 segundos
+Teste 05: 14.1440 segundos
+Teste 06: 14.1660 segundos
+Teste 07: 14.1830 segundos
+Teste 08: 14.1340 segundos
+Teste 09: 14.1210 segundos
+Teste 10: 14.1460 segundos
+Teste 11: 14.3020 segundos
+Teste 12: 14.1970 segundos
+Teste 13: 14.2190 segundos
+Teste 14: 14.2360 segundos
+Teste 15: 14.1650 segundos
+Teste 16: 14.1800 segundos
+Teste 17: 14.1800 segundos
+Teste 18: 14.1780 segundos
+Teste 19: 14.1220 segundos
+Teste 20: 14.1290 segundos
+Teste 21: 14.1220 segundos
+Teste 22: 14.1570 segundos
+Teste 23: 14.1380 segundos
+Teste 24: 14.1390 segundos
+Teste 25: 14.1230 segundos
+Teste 26: 14.1340 segundos
+Teste 27: 14.1470 segundos
+Teste 28: 14.1140 segundos
+Teste 29: 14.1320 segundos
+Teste 30: 14.1740 segundos
+------------------------------
+MÉDIA FINAL: 14.1602 segundos
+==============================
+
+
+==============================
+Algoritmo: BubbleSort | Caso: Pior Caso | N = 200000
+------------------------------
+Teste 01: 78.3910 segundos
+Teste 02: 78.4140 segundos
+Teste 03: 78.4110 segundos
+Teste 04: 78.4240 segundos
+Teste 05: 78.3840 segundos
+Teste 06: 78.4020 segundos
+Teste 07: 78.4120 segundos
+Teste 08: 78.4300 segundos
+Teste 09: 78.4050 segundos
+Teste 10: 78.4140 segundos
+Teste 11: 78.4410 segundos
+Teste 12: 78.4010 segundos
+Teste 13: 78.4320 segundos
+Teste 14: 78.4050 segundos
+Teste 15: 78.3820 segundos
+Teste 16: 78.4030 segundos
+Teste 17: 78.3940 segundos
+Teste 18: 78.4190 segundos
+Teste 19: 78.4290 segundos
+Teste 20: 78.4400 segundos
+Teste 21: 78.4280 segundos
+Teste 22: 78.4460 segundos
+Teste 23: 78.4070 segundos
+Teste 24: 78.4390 segundos
+Teste 25: 78.4040 segundos
+Teste 26: 78.4450 segundos
+Teste 27: 78.4160 segundos
+Teste 28: 78.4200 segundos
+Teste 29: 78.4160 segundos
+Teste 30: 78.4220 segundos
+------------------------------
+MÉDIA FINAL: 78.4159 segundos
+==============================
+
+
+==============================
+Algoritmo: InsertionSort | Caso: Pior Caso | N = 200000
+------------------------------
+Teste 01: 28.2910 segundos
+Teste 02: 28.2940 segundos
+Teste 03: 28.2980 segundos
+Teste 04: 28.3030 segundos
+Teste 05: 28.3120 segundos
+Teste 06: 28.3050 segundos
+Teste 07: 28.2860 segundos
+Teste 08: 28.3010 segundos
+Teste 09: 28.2990 segundos
+Teste 10: 28.2930 segundos
+Teste 11: 28.3080 segundos
+Teste 12: 28.2830 segundos
+Teste 13: 28.2870 segundos
+Teste 14: 28.2810 segundos
+Teste 15: 28.2890 segundos
+Teste 16: 28.2840 segundos
+Teste 17: 28.2980 segundos
+Teste 18: 28.2910 segundos
+Teste 19: 28.2950 segundos
+Teste 20: 28.2880 segundos
+Teste 21: 28.2970 segundos
+Teste 22: 28.2890 segundos
+Teste 23: 28.2920 segundos
+Teste 24: 28.2940 segundos
+Teste 25: 28.2930 segundos
+Teste 26: 28.2830 segundos
+Teste 27: 28.2850 segundos
+Teste 28: 28.2870 segundos
+Teste 29: 28.2900 segundos
+Teste 30: 28.3040 segundos
+------------------------------
+MÉDIA FINAL: 28.2933 segundos
+==============================
+
+
+Tempo total de execução: 8610.53 segundos
