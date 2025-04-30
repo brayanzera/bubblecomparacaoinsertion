@@ -3,10 +3,10 @@
 #include <time.h>
 #include <string.h>
 
-// Número de repetições
-#define REPETICOES 1
+// NÃºmero de repetiÃ§Ãµes
+#define REPETICOES 30
 
-// Funções de ordenação
+// FunÃ§Ãµes de ordenaÃ§Ã£o
 void bubbleSort(int *v, int n) {
     int trocou = 1;
     while(trocou) {
@@ -34,7 +34,7 @@ void insertionSort(int *v, int n) {
     }
 }
 
-// Funções para gerar os vetores
+// FunÃ§Ãµes para gerar os vetores
 void gerarMelhorCaso(int *v, int n) {
     for(int i = 0; i < n; i++) {
         v[i] = i;
@@ -53,7 +53,7 @@ void gerarCasoMedio(int *v, int n) {
     }
 }
 
-// Função para medir o tempo de execução 30 vezes
+// FunÃ§Ã£o para medir o tempo de execuÃ§Ã£o 30 vezes
 void medirTempo(void (*func)(int *, int), void (*gerar)(int *, int), int *v, int n, const char *nomeAlgoritmo, const char *caso, int tamanho) {
     double tempos[REPETICOES];
     double soma = 0.0;
@@ -84,22 +84,22 @@ void medirTempo(void (*func)(int *, int), void (*gerar)(int *, int), int *v, int
         printf("Teste %02d: %.4f segundos\n", i+1, tempos[i]);
     }
     printf("------------------------------\n");
-    printf("MÉDIA FINAL: %.4f segundos\n", media);
+    printf("MÃ‰DIA FINAL: %.4f segundos\n", media);
     printf("==============================\n\n");
 }
 
 int main() {
-    // Início da medição do tempo total
+    // InÃ­cio da mediÃ§Ã£o do tempo total
     clock_t inicioTotal = clock();
 
-    // Redireciona a saída para o arquivo
+    // Redireciona a saÃ­da para o arquivo
     FILE *arquivo = freopen("resultado.txt", "w", stdout);
     if (arquivo == NULL) {
-        perror("Erro ao redirecionar a saída para o arquivo");
+        perror("Erro ao redirecionar a saÃ­da para o arquivo");
         return 1;
     }
 
-    srand(time(NULL)); // Inicializa o gerador de números aleatórios
+    srand(time(NULL)); // Inicializa o gerador de nÃºmeros aleatÃ³rios
 
     int tamanhos[] = {10000, 50000, 100000, 200000};
     int numTamanhos = sizeof(tamanhos)/sizeof(tamanhos[0]);
@@ -109,7 +109,7 @@ int main() {
         int *v = (int *)malloc(sizeof(int) * n);
 
         if(v == NULL) {
-            printf("Erro ao alocar memória\n");
+            printf("Erro ao alocar memÃ³ria\n");
             exit(1);
         }
 
@@ -121,9 +121,9 @@ int main() {
         medirTempo(bubbleSort, gerarMelhorCaso, v, n, "BubbleSort", "Melhor Caso", n);
         medirTempo(insertionSort, gerarMelhorCaso, v, n, "InsertionSort", "Melhor Caso", n);
 
-        // Caso médio
-        medirTempo(bubbleSort, gerarCasoMedio, v, n, "BubbleSort", "Caso Médio", n);
-        medirTempo(insertionSort, gerarCasoMedio, v, n, "InsertionSort", "Caso Médio", n);
+        // Caso mÃ©dio
+        medirTempo(bubbleSort, gerarCasoMedio, v, n, "BubbleSort", "Caso MÃ©dio", n);
+        medirTempo(insertionSort, gerarCasoMedio, v, n, "InsertionSort", "Caso MÃ©dio", n);
 
         // Pior caso
         medirTempo(bubbleSort, gerarPiorCaso, v, n, "BubbleSort", "Pior Caso", n);
@@ -132,11 +132,11 @@ int main() {
         free(v);
     }
 
-    // Fim da medição do tempo total
+    // Fim da mediÃ§Ã£o do tempo total
     clock_t fimTotal = clock();
     double tempoTotal = (double)(fimTotal - inicioTotal) / CLOCKS_PER_SEC;
 
-    printf("\nTempo total de execução: %.2f segundos\n", tempoTotal);
+    printf("\nTempo total de execuÃ§Ã£o: %.2f segundos\n", tempoTotal);
 
     fclose(arquivo);
     return 0;
